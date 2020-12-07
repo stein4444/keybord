@@ -1,0 +1,15 @@
+E:\c# 3semestr\Keybord\bin\Debug\Keybord.exe.config
+E:\c# 3semestr\Keybord\bin\Debug\Keybord.exe
+E:\c# 3semestr\Keybord\bin\Debug\Keybord.pdb
+E:\c# 3semestr\Keybord\obj\Debug\Keybord.csprojAssemblyReference.cache
+E:\c# 3semestr\Keybord\obj\Debug\MainWindow.g.cs
+E:\c# 3semestr\Keybord\obj\Debug\App.g.cs
+E:\c# 3semestr\Keybord\obj\Debug\Keybord_MarkupCompile.cache
+E:\c# 3semestr\Keybord\obj\Debug\Keybord_MarkupCompile.lref
+E:\c# 3semestr\Keybord\obj\Debug\MainWindow.baml
+E:\c# 3semestr\Keybord\obj\Debug\Keybord.g.resources
+E:\c# 3semestr\Keybord\obj\Debug\Keybord.Properties.Resources.resources
+E:\c# 3semestr\Keybord\obj\Debug\Keybord.csproj.GenerateResource.cache
+E:\c# 3semestr\Keybord\obj\Debug\Keybord.csproj.CoreCompileInputs.cache
+E:\c# 3semestr\Keybord\obj\Debug\Keybord.exe
+E:\c# 3semestr\Keybord\obj\Debug\Keybord.pdb
